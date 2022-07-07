@@ -1,0 +1,6 @@
+Tokyo/Tokyo.txt
+Jenin/Jenin.txt
+Jerusalem/Jerusalem.txt
+Ramallah/Ramallah.txt
+Delhi/Delhi.txt
+Hebron/Hebron.txt
